@@ -49,10 +49,3 @@ Understanding feature importance can:
 
 ---
 
-## 👨‍💻 Author
-
-Developed as part of a machine learning feature selection demonstration.
-
----
-
-Let me know if you’d like a Markdown or `.md` file version!
